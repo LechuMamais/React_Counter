@@ -1,0 +1,4 @@
+#ShowCount{
+    text-align: center;
+    font-size: clamp(20px, 4vw, 50px);
+}

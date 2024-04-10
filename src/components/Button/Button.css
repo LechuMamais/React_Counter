@@ -1,0 +1,6 @@
+.countButton{
+    width: clamp(4rem, 30vw, 10rem);
+    font-size: clamp(12px, 2.5vw, 18px);
+    cursor: pointer;
+    padding: 0.5rem 0rem;
+}
